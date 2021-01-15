@@ -1,0 +1,35 @@
+table{
+    background-color: antiquewhite;
+    padding: 50px;
+    border-radius: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+b{
+    background-color: rgb(211, 166, 107);
+padding: 25px;
+box-shadow: rgb(0, 0, 0) 10px;
+border-radius: 40px;
+}
+p{
+    margin: 0px;
+    margin-top: 50px;
+}
+td{
+    padding-right: 20px;
+}
+td.buttoni{
+    padding-right: 0px ;
+    margin : 0px;
+}
+
+i{
+   
+   border-radius:1px ;
+   padding:5px;
+   cursor: pointer;
+}
+i:hover{
+    background-color: rgb(238, 218, 192) ;
+    border-radius:2px; ;
+}
